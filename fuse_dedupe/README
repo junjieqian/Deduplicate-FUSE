@@ -1,0 +1,11 @@
+Course project for CSCE837
+Team-member: Junjie Qian, Hao Luo, Yaodong Yang.
+May. 1, 2013
+
+Base FUSE system is designed by Prof. Pfeiffer (http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/).
+
+The data deduplication for FUSE is in three parts, first part is Metafile implementation, second is SHA1 ID generating for each chunk file/data, third is modification of the READ/WRITE/Get_attribute operations of FUSE.
+
+I implemented the Metafile read/write/delete operations, and involved in the final system debug.
+
+
