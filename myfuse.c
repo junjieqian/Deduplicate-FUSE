@@ -1,6 +1,6 @@
 /* myfuse.c
  * Junjie Qian, jqian@cse.unl.edu
- * Homework 4, Problem 3 build one fuse system
+ * Build one fuse system
  */
 
 #define FUSE_USE_VERSION 26
